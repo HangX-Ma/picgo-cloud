@@ -1,0 +1,1 @@
+This folder collects images for [S-Record](https://github.com/HangX-Ma/S-Record) repository.
